@@ -27,6 +27,8 @@ Please do the following steps to install and run it:
 
 6. Run Flask.
 
+``cd urlshortener``
+
 ``flask run``
 
 7. Type http://127.0.0.1:5000 in your browser's address bar.
